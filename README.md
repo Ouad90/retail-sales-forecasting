@@ -1,6 +1,3 @@
-
-![Project Banner](assets/project_banner.png)
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +18,9 @@
 ![Project Banner](assets/project_banner.png)
 
 ══════════════════════════════════════════════
+# Header
+
+Display this banner first.
 
 Retail Sales Forecasting & Analytics Dashboard
 
