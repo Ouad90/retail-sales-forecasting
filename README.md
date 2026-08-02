@@ -1,18 +1,32 @@
-Create a modern, visually attractive, professional GitHub README for a Data Science portfolio project.
+🐍 Python   📈 Time Series   🤖 Machine Learning
+🌲 XGBoost  📊 MLflow        ⚡ HyperOpt
+🎯 Streamlit  📄 MIT  ✅ Completed
 
-The writing style should be similar to a high-quality open-source repository.
+══════════════════════════════════════════════
+<div align="center">
 
-Use:
-- emojis
-- badges
-- clean Markdown
-- tables where appropriate
-- collapsible sections if useful
-- professional business language
-- recruiter-friendly explanations
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time-Series%20Forecasting-009688?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-darkgreen?style=for-the-badge)
+![Ridge Regression](https://img.shields.io/badge/Ridge-Regression-yellow?style=for-the-badge&logoColor=black)
 
-The README should contain the following sections.
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![HyperOpt](https://img.shields.io/badge/HyperOpt-Bayesian%20Optimization-purple?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+</div>
+
+![Project Banner](assets/project_banner.png)
+
+══════════════════════════════════════════════
+
+Retail Sales Forecasting & Analytics Dashboard
+
+Short project description
 ---
 
 # Header
