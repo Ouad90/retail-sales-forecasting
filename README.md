@@ -1,7 +1,3 @@
-🐍 Python   📈 Time Series   🤖 Machine Learning
-🌲 XGBoost  📊 MLflow        ⚡ HyperOpt
-🎯 Streamlit  📄 MIT  ✅ Completed
-
 ══════════════════════════════════════════════
 <div align="center">
 
