@@ -1,8 +1,4 @@
 
-# Header
-
-Display this banner first.
-
 ![Project Banner](assets/project_banner.png)
 
 <div align="center">
